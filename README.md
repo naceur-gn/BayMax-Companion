@@ -1,6 +1,12 @@
-# BayMax Companion
+<p align="center">
+  <img src="./images/e6ba7449-6160-4a48-8f1d-69856a6c3ff6.png" alt="BayMax Companion" width="320">
+</p>
 
-A small, warm, safety-conscious AI companion built as an [Ollama](https://ollama.com) model.
+<h1 align="center">BayMax Companion</h1>
+
+<p align="center">
+  A small, warm, safety-conscious AI companion built as an <a href="https://ollama.com">Ollama</a> model.
+</p>
 
 The personality, tone, health-safety rules, and response limits are all defined in a single
 [`Modelfile`](./Modelfile). No extra code is required — Ollama builds the model directly from it.
@@ -42,6 +48,7 @@ ollama run baymax-companion
 | File | Purpose |
 | --- | --- |
 | `Modelfile` | Ollama build recipe: base model, full system prompt, sampling parameters |
+| `images/` | Artwork used at the top of this README |
 | `README.md` | This document |
 
 ---
