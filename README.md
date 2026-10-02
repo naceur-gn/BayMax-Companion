@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/e6ba7449-6160-4a48-8f1d-69856a6c3ff6.png" alt="BayMax Companion" width="320">
+  <img src="./images/e6ba7449-6160-4a48-8f1d-69856a6c3ff6.png" alt="BayMax Companion" width="640">
 </p>
 
 <h1 align="center">BayMax Companion</h1>
